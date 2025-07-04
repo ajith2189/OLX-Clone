@@ -3,6 +3,7 @@ import Home from './Components/Pages/Home'
 import Details from './Components/Details/Details'
 
 const App = () => {
+  
   return (
     {/*Setting up routes*/}
    <>
