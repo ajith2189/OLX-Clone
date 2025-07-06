@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Components/Pages/Home'
 import Details from './Components/Details/Details'
 
-// creating app
+// creating app in the 
 const App = () => {
   
   return (
