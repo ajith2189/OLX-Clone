@@ -6,7 +6,7 @@ import Details from './Components/Details/Details'
 const App = () => {
   
   return (
-    {/*Setting up routes*/}
+    {/*Setting up routes */}
    <>
    <Routes>
     <Route  path='/' element={<Home/>}/>
