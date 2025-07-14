@@ -7,6 +7,7 @@ const App = () => {
   
   return (
     {/*Setting up routes */}
+    
    <>
    <Routes>
     <Route  path='/' element={<Home/>}/>
