@@ -4,7 +4,7 @@ import Details from './Components/Details/Details'
 
 // creating app  for the some of teh
 const App = () => {
-  //main part of the app
+  //main part of the app that
   
   return (
     {/*Setting up routes */}
